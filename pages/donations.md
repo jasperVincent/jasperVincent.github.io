@@ -14,6 +14,8 @@ permalink: /donations/
 
 #### 捐赠方式
 对于无独立经济来源的学生而言，不推荐进行大额捐赠。
+![webchat-ali-pay](https://image.xuchangwei.com/site/images/webchat-ali-pay.jpg)
+
 注意事项：
 
 1. 请尽量留言以表明自己是为seisman博客捐赠，以免与我的其它交易混淆；
